@@ -1,0 +1,32 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "language interpretation and recognition interface using nodeJS",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapatterson/liri-node-app.git"
+  },
+  "keywords": [
+    "liri",
+    "node",
+    "git",
+    "spotify",
+    "twitter",
+    "omdb",
+    "api"
+  ],
+  "author": "Taneah Patterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tapatterson/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/tapatterson/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
+}
